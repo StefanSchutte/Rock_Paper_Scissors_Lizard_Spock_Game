@@ -1,6 +1,10 @@
  ## Spock Rock Game
 Welcome to the Spock Rock Game! This web application allows users to play the popular "Rock Paper Scissors Lizard Spock" game against the computer. The game features an engaging interface with icons representing different choices, and the winner is determined based on the classic rules of the game.
 
+![2024-01-03_19-27_1](https://github.com/StefanSchutte/Rock_Paper_Scissors_Lizard_Spock_Game/assets/127427422/55ef27d6-e798-4772-b2d5-2727786b8c9d)
+
+[Deployed Site](https://spock-rock-game-stefan.netlify.app/)
+
 ### Features
 - Gameplay Icons: Play the game by selecting your choice from the available icons representing Rock, Paper, Scissors, Lizard, and Spock.
 
@@ -29,6 +33,9 @@ Welcome to the Spock Rock Game! This web application allows users to play the po
 - Enjoy the confetti celebration when you win a round.
 
 - Use the reset icon to clear the scores and restart the game.
+
+![2024-01-03_19-27](https://github.com/StefanSchutte/Rock_Paper_Scissors_Lizard_Spock_Game/assets/127427422/09e5a056-c337-4c25-a90e-42a0ccef6126)
+
 
 ### Contributions
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
